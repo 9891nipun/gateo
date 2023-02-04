@@ -1,0 +1,1 @@
+print("get all the files in the directory to add those details")
